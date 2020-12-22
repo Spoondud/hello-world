@@ -1,2 +1,3 @@
 # hello-world
-First repository 8)
+Epic,
+This is my first repository and readme 8)
